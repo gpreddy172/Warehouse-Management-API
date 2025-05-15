@@ -1,6 +1,6 @@
 # 📦 Warehousing Management System API
 
-This is a RESTful API for managing inventory, suppliers, warehouses, and orders in a warehousing system. It is built using **FastAPI**, **SQLite**, and **SQLAlchemy**.
+This is a RESTful API for managing inventory, suppliers, warehouses, and orders in a warehousing system. It is built using **FastAPI**, **PyDantic**, **SQLite**, and **SQLAlchemy**.
 
 ---
 
